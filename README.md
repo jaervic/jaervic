@@ -1,7 +1,7 @@
 # Jaervic B Guevara
 Soy un estudiante y amante de la Psicología. Tengo 21 años. Soy de Venezuela, residenciado en Santiago de Los Caballeros, RD.
 
-Actualmente estoy enfocado en mejorar mis habilidades de programación en JavaScript. Poco a poco estaré mostrando mi progreso y preparandome para formar parte de este campo laboral.
+Actualmente estoy enfocado en mejorar mis habilidades de programación en JavaScript. Poco a poco estaré mostrando mi progreso. Actualmente me encuentro preparandome para formar parte de este campo laboral.
 
 ## Mis hobbies son: 
 Fotografía 📷, Home Workout 💪, Descrubrir nueva música 🎧, Estudiar Francés 🇫🇷, Leer sobre temas relacionados con la psicología 🧠, y desarrollar nuevas habilidades 💻.
@@ -16,4 +16,4 @@ Fotografía 📷, Home Workout 💪, Descrubrir nueva música 🎧, Estudiar Fra
 
 ## Redes
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Jaervic)](https://twitter.com/Jaervic)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaervic)](https://www.linkedin.com/in/jaervic)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaervic)](https://www.linkedin.com/in/jaervic).
