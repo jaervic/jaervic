@@ -3,10 +3,10 @@ Soy un estudiante y amante de la Psicología. Tengo 21 años. Soy de Venezuela, 
 
 Actualmente estoy enfocado en mejorar mis habilidades de programación en JavaScript. Poco a poco estaré mostrando mi progreso. Me encuentro preparandome mucho para formar parte de este campo laboral.
 
-[English](#)
+[English](https://github.com/jaervic/jaervic/blob/main/README_ENG)
 
 ## Mis hobbies son: 
-Fotografía 📷, Home Workout 💪, Descrubrir nueva música 🎧, Estudiar Francés 🇫🇷, Leer sobre temas relacionados con la psicología 🧠, y desarrollar nuevas habilidades 💻.
+Fotografía 📷, Home Workout 💪, Descubrir nueva música 🎧, Estudiar Francés 🇫🇷, Leer sobre temas relacionados con la psicología 🧠, y desarrollar nuevas habilidades 💻.
 
 
 ## Skills
