@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Jaervic B. Guevara
-I'm a Psychology student. I'm 21 years old. I'm from Venezuela 🇻🇪, Living at Santiago de Los Caballeros, RD 🇩🇴
+# I'm Jaervic B. Guevara
+I'm self-taught programmer. I'm 21 years old. I'm from Venezuela 🇻🇪, Living in Santiago de Los Caballeros, RD 🇩🇴
 
-I'm actually focused in improving my programation skills with JavaScript. Step by step I'll be using everything that I'm learning and showing it into projects. I'm confident in my ability to come up with good ideas and an excellent performance in the rol that I have to take.
+I'm actually focused in improving my programation skills. Step by step I'll be using everything that I'm learning and showing it into projects. I'm confident in my ability to come up with good ideas and an excellent performance in any role that I have to take.
 
 [Español](https://github.com/jaervic/jaervic/blob/main/README.md)
 
@@ -32,7 +32,8 @@ Photography 📷, Home Workout 💪, Discovering new music 🎧, Studying French
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=plastic&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Social
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Jaervic)](https://twitter.com/Jaervic)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaervic)](https://www.linkedin.com/in/jaervic).
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaervic)](https://www.linkedin.com/in/jaervic)
